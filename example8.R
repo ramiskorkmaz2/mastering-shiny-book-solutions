@@ -1,5 +1,3 @@
-# Proje 8 lambda değerlerini değiştirerek grafiği simule edilebiliyor(simule butonu eklendi)
-
 library(shiny)
 library(ggplot2)
 ui <- fluidPage(

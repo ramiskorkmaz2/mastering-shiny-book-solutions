@@ -1,5 +1,3 @@
-# Proje 6 500’er tane random iki sayının dağılımını ve t_testini gösteren grafik
-
 library(ggplot2)
 freqpoly <- function(x1, x2, binwidth = 0.1, xlim = c(-3,3)){
   df <- data.frame(

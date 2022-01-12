@@ -1,5 +1,3 @@
-# Proje 7 sayıları, ortalamayı değiştireceğimiz interaktif bir form sayılar değiştikçe grafik de değişiyor
-
 library(shiny)
 
 ui <- fluidPage(

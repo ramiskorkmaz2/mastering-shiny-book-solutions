@@ -1,5 +1,3 @@
-# Proje 2 ggplot kütüphanesindeki Economics faithfuld ve seals setlerini özet halinde gösteriyor
-
 library(shiny)
 library(ggplot2)
 datasets <- c("economics", "faithfuld","seals")

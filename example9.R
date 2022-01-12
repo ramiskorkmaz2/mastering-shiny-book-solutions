@@ -1,5 +1,3 @@
-# Proje 9 2017 yılında amerikada gerçekleşen yaralanmaların listesi veriye kısa bir göz atma içeriyor
-
 library(shiny)
 library(vroom)
 library(tidyverse)

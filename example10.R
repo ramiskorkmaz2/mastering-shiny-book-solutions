@@ -1,5 +1,3 @@
-# Proje 10 Yukarıdaki veri setinin interaktif hale getirilmiş hali veriler değiştikçe grafik değişiyor tele me a story deyince rastgele bir örnek getiriyor
-
 prod_codes <- setNames(products$prod_code, products$title)
 injuries %>% 
   mutate(diag= fct_lump(fct_infreq(diag), n = 5)) %>%

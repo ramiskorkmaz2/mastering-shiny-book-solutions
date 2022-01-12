@@ -1,5 +1,3 @@
-# Proje 3 hello başlıklı hello içeriği üretiyor amaç arayüzü anlamak
-
 ui <- fluidPage(
   textOutput("text"),
   verbatimTextOutput("print")

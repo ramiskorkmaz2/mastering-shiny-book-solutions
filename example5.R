@@ -1,5 +1,3 @@
-# Proje 5 isim değiştikçe sonuçların değiştiği interaktif bir karşılama
-
 ui <- fluidPage(
  textInput("name", "Adın ne?"),
  textOutput("greeting")

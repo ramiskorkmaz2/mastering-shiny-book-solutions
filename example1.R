@@ -1,5 +1,3 @@
-# Proje 1 # x ve y değerlerini değiştirip sonuçların değişmesini sağlıyor
-
 library(shiny)
 ui <- fluidPage(
   sliderInput("x", label = "If x is", min = 1, max = 100, value = 30),
